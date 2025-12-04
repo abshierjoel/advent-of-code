@@ -1,3 +1,3 @@
-# Advent of Code 2023 Challenges
+# 🎄 Advent of Code
 
-Writing terrible Haskell
+Archive of Advent of Code challenges
