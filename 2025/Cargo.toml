@@ -1,0 +1,9 @@
+[package]
+name = "advent_of_code_2025"
+version = "0.1.0"
+rust-version = "1.91"
+edition = "2024"
+include = ["/day*/**"]
+
+[profile.bench]
+incremental = true
